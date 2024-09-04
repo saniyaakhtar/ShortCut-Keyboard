@@ -33,7 +33,7 @@ A customizable shortcut keyboard built using the Raspberry Pi Pico with an OLED 
 
 ## Customization
 
-- Edit the `shortcuts.py` file to modify or add new shortcuts for different modes.
+- Edit the `code.py` file to modify or add new shortcuts for different modes.
 - Use the OLED display to visually confirm the selected mode and shortcut.
 
 ## Future Improvements
